@@ -56,7 +56,9 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 [![Telegram](https://img.shields.io/badge/Chat-Teligram-blue?style=for-the-badge&logo=teligram)](https://t.me/STLP_Team)
 [![Github](https://img.shields.io/badge/Github-Github-143green?style=for-the-badge&logo=github)](https://github.com/STLP-TEAM)
 
+
+<b><br>Thanks to SAITAMA,leoon123,Zxcr9999 </b>
+
 <br>
 <h3><a href="https://facebook.com/groups/spamming.termux.learning.point/"> ©️STLP-TEAM</a></h3>
 
-<h5><br>Thanks to SAITAMA,leoon123,Zxcr9999 </h5>

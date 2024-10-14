@@ -47,7 +47,7 @@ pkg update -y;pkg upgrade -y;pkg install git -y;pkg install python -y;pkg instal
 
 
 <h3>DEMO SS:</h3>
-<center><img src="ss2.png" alt="STLP-TEAM" height="900" width="1500"></img></center></br>
+<center><img src="ss2.png" alt="STLP-TEAM" height="900" width="500"></img></center></br>
 
 ## Find Us on :
 

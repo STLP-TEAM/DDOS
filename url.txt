@@ -6,3 +6,5 @@ https://indianembassyusa.gov.in
 103.56.38.18
 https://www.makeinindia.com/
 13.235.29.54
+https://educationusa.state.gov/
+52.71.163.255

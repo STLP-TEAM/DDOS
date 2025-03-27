@@ -177,3 +177,4 @@ https://www.bgu.ac.il
 https://www.haifa.ac.il
 https://www.openu.ac.il
 https://www.biu.ac.il
+https://www.jewishagency.org

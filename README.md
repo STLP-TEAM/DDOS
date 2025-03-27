@@ -31,6 +31,7 @@ pkg install golang -y
 pkg install perl -y
 pkg install nodejs -y
 pip install requests socket datetime colorama socks pysocks
+pip install requests
 cd && rm -rf DDOS
 git clone https://github.com/STLP-TEAM/DDOS
 cd DDOS

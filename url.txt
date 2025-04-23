@@ -178,3 +178,5 @@ https://www.haifa.ac.il
 https://www.openu.ac.il
 https://www.biu.ac.il
 https://www.jewishagency.org
+https://aniplus.co/
+106.0.62.80

@@ -180,3 +180,5 @@ https://www.biu.ac.il
 https://www.jewishagency.org
 https://aniplus.co/
 106.0.62.80
+http://hiddush.org
+185.241.4.16
